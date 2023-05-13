@@ -1,4 +1,4 @@
-- 👋 Hi, @Kwame-Jahmiel
+- 👋 Hi, @BLack-Phoenix
 - 👀 I’m interested in Web Development and Cyber Security.
 - 🌱 I’m currently learning HTML, CSS & JavaScript 
 - 💞️ I’m looking to collaborate on any project available to widen my knowledge.
